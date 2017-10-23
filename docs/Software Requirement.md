@@ -26,9 +26,9 @@
 
 ## 1.3 参考资料
 
-Github项目管理相关教程
-Matlab/Simulink官方相关教程
-<<构建之法>>
+- Github项目管理相关教程
+- Matlab/Simulink官方相关教程
+- <<构建之法>>
 
 # 2. 任务概述
 
